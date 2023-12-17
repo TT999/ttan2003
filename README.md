@@ -1,1 +1,4 @@
-# ttan2003
+# Tommy Tan
+# cal poly github for CIS class
+
+business intelligence
